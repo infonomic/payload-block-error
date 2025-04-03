@@ -1,0 +1,4 @@
+{
+  "extends": ["next/babel", "next/core-web-vitals"],
+  "ignorePatterns": ["node_modules", ".next", "out", "./payload-types.ts"]
+}
